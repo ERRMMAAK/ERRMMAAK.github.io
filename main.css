@@ -1,0 +1,42 @@
+p
+		{
+			color:red;
+			font-family: 'Jomhuria', cursive;
+		}
+		img
+		{
+			width: 30%;
+		}
+		div
+		{
+			padding: 1px 15px;
+			magrin: 20px;
+			background-color: gold;
+			width: 30%;
+			color:red;
+
+			box-shadow: 10px 10px
+			200px 10px rgba(255, 65, 243, 0.8);
+		}
+		p
+		{
+			color: red;
+		}
+	a
+		{
+			text-decoration: none;
+			color: tomato;
+			font-size:20px;
+			display: inline-block;
+			border-bottom: 1px solid transparent;
+			transition: font-size 1s ease;
+			border-bottom-color 2s ease-in;
+		}
+
+		
+		a:hover
+		
+	 {
+		border-bottom-color: black;
+		font-size: 100px;
+		}
